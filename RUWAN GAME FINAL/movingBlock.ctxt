@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=blocks\ S\ FB
+comment0.target=movingBlock(int,\ int,\ int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ moveMe()
+numComments=3
